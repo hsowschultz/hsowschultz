@@ -1,1 +1,1 @@
-I'm sorry, but your call is very low priority. Please hold indefinitely.
+A computer program does what you tell it to do, not what you want it to do.
